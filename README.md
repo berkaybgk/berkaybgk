@@ -36,4 +36,9 @@ I am a passionate computer science student from Istanbul/Turkey and I am current
 - 🌐 Website: [berkaybgk.site](https://www.berkaybgk.site)  
 - 🔗 LinkedIn: [Berkay Buğra Gök](https://www.linkedin.com/in/berkay-bugra-gok-755414219/)  
 
+---
+
+#### Wondering who the hell is the woman in the profile picture?
+
+![Rachel](blade-runner-1982.gif)
 
