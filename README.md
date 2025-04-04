@@ -1,8 +1,8 @@
-# 💫 About Me:
+# About Me:
 I am a passionate computer science student from Istanbul/Turkey and I am currently studying at Boğaziçi University.<br>My interests are Data Science, AI/ML and software engineering in general. I like building end-to-end projects which blend these areas.
 
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -30,11 +30,11 @@ I am a passionate computer science student from Istanbul/Turkey and I am current
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 
 
-# 📞 Contact:
+# Contact:
 
-- 📧 Email: [berkaybugragok@gmail.com](mailto:berkaybugragok@gmail.com)  
-- 🌐 Website: [berkaybgk.site](https://www.berkaybgk.site)  
-- 🔗 LinkedIn: [Berkay Buğra Gök](https://www.linkedin.com/in/berkay-bugra-gok-755414219/)  
+- Email: [berkaybugragok@gmail.com](mailto:berkaybugragok@gmail.com)  
+- Website: [berkaybgk.site](https://www.berkaybgk.site)  
+- LinkedIn: [Berkay Buğra Gök](https://www.linkedin.com/in/berkay-bugra-gok-755414219/)  
 
 ---
 
